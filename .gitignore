@@ -10,4 +10,4 @@
 !wp-config.php
 !.env
 !.ssh/
-
+!readme.txt
