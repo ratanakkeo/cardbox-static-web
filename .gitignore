@@ -4,3 +4,9 @@
 !docker-compose.yml
 !themes/
 !plugins/ 
+!deploy.sh
+!docker-compose.prod.yml
+!.htaccess
+!wp-config.php
+!.env
+

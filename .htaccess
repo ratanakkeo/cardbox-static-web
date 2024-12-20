@@ -1,0 +1,23 @@
+# Protect wp-config.php
+<Files "wp-config.php">
+Require all denied
+</Files>
+
+# Protect wp-includes
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^wp-admin/includes/ - [F,L]
+RewriteRule !^wp-includes/ - [S=3]
+RewriteRule ^wp-includes/[^/]+\.php$ - [F,L]
+RewriteRule ^wp-includes/js/tinymce/langs/.+\.php - [F,L]
+RewriteRule ^wp-includes/theme-compat/ - [F,L]
+</IfModule>
+
+# Prevent directory browsing
+Options -Indexes
+
+# Block access to sensitive files
+<FilesMatch "^.*\.(log|txt|md)$">
+    Require all denied
+</FilesMatch> 
