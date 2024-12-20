@@ -9,4 +9,5 @@
 !.htaccess
 !wp-config.php
 !.env
+!.ssh/
 
