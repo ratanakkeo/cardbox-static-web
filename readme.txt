@@ -52,30 +52,3 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
-
-== Resources ==
-
-* Image 1: Book on Table
-License: CC0 Public Domain
-Source: https://pxhere.com/en/photo/615325
-
-* Image 2: Library Interior
-License: CC0 Public Domain
-Source: https://pxhere.com/en/photo/110066
-
-* Image 3: Reading Corner
-License: CC0 Public Domain
-Source: https://pxhere.com/en/photo/1225330
-
-* Image 4: Book Collection
-License: CC0 Public Domain
-Source: https://pxhere.com/en/photo/129146
-
-* Image 5: Study Area
-License: CC0 Public Domain
-Source: https://pxhere.com/en/photo/1434835
-
-* Pacifico Font
-Copyright (c) 2011 by Vernon Adams
-License: SIL Open Font License, 1.1
-Source: https://fonts.google.com/specimen/Pacifico 
